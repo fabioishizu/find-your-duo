@@ -5,7 +5,7 @@ Aí uma vez que você encontre um possivel match, é fornecido o id do discord d
 
 ## Deploy
 
-Para fazer o deploy desse projeto rode
+Para fazer o deploy desse projeto rode na pasta raíz do projeto web e do servidor:
 
 ```bash
   npm install
